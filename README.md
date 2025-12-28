@@ -1,8 +1,6 @@
 <h1 align="center">👋 Priyanshu Soni</h1>
 <h3 align="center">Full-Stack Web Developer | Building Scalable Web & SaaS Applications</h3>
 
-
-# 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web applications using React, Next.js, Node.js, MongoDB, focusing on scalable dashboards, authentication, and performance optimization.<br><br>👯 I’m looking to collaborate on<br>Open-source full-stack / frontend projects, SaaS products, dashboards, and projects involving React, Next.js, APIs, or AI integrations.<br><br>🤝 I’m looking for help with<br>System design for scalable web apps, advanced backend optimizations, and real-world DevOps & CI/CD practices.<br><br>🌱 I’m currently learning<br>Advanced React patterns, Next.js 14, GraphQL, Docker, and improving problem-solving through DSA (200+ LeetCode solved).<br><br>💬 Ask me about<br>React, Next.js, Node.js, REST APIs, MongoDB, JWT authentication, Stripe payments, or building end-to-end web products.<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into clean UI dashboards—and I’ve built projects ranging from stock analytics to AI-powered SaaS platforms 🚀
 
 
